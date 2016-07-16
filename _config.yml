@@ -1,16 +1,16 @@
 typography_spectrum: 0.8990937962662429
 color:
-  brandStrength: 0.7155659168493003
-  lightness: 0.8106098331045359
-  saturation: 0.4574753544293344
-  rhythmicContrast: 0.47481465176679194
+  brandStrength: 0.5320577933453023
+  lightness: 0.016881306655704975
+  saturation: 0.4246487100608647
+  rhythmicContrast: 0.20689374674111605
   brandColors:
-    - '#962D3E'
-    - '#343642'
-    - '#979C9C'
-    - '#F2EBC7'
-    - '#348899'
-layout_spectrum: 0.2088753441348672
+    - '#6B0C22'
+    - '#D9042B'
+    - '#F4CB89'
+    - '#588C8C'
+    - '#011C26'
+layout_spectrum: 0.9935995894484222
 author:
   name: Geert Peeters
   email: peeters@jolte.com
