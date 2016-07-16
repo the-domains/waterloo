@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Waterloo]]></title>
+        <description><![CDATA[Waterloo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 16 Jul 2016 18:16:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Battle of Waterloo 200th Reenactment]]></title>
+            <description><![CDATA[<article><h1>Battle of Waterloo 200th Reenactment</h1><p>On June 18-20, 2015, thousands of reenactors gathered at Waterloo to commemorate the bicentenary of one of the most important battles in European history. The battle took place on June 18, 1815, and the Allied forces under the Duke of Wellington defeated the French army under Napoleon Bonaparte.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cc25dfed344d40ab151e467e5297ea84/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FboImKf5625o%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=boImKf5625o</link>
+            <guid isPermaLink="false">bb7c5bed-9308-4bc8-8e3d-4e16d5ecaf0a</guid>
+            <pubDate>Sat, 16 Jul 2016 18:16:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
