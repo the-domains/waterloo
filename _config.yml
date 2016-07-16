@@ -1,0 +1,14 @@
+layout_spectrum: 0.2088753441348672
+typography_spectrum: 0.8990937962662429
+color:
+  brandStrength: 0.7155659168493003
+  lightness: 0.8106098331045359
+  saturation: 0.4574753544293344
+  rhythmicContrast: 0.47481465176679194
+  brandColors:
+    - '#962D3E'
+    - '#343642'
+    - '#979C9C'
+    - '#F2EBC7'
+    - '#348899'
+name: Waterloo
