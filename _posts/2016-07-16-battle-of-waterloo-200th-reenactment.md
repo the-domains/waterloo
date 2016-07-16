@@ -65,8 +65,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=boImKf5625o'
 title: Battle of Waterloo 200th Reenactment
-datePublished: '2016-07-16T18:16:42.156Z'
-dateModified: '2016-07-16T18:14:45.080Z'
+datePublished: '2016-07-16T18:35:22.045Z'
+dateModified: '2016-07-16T18:16:14.790Z'
 starred: false
 sourcePath: _posts/2016-07-16-battle-of-waterloo-200th-reenactment.md
 inFeed: true
