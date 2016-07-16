@@ -1,4 +1,3 @@
-layout_spectrum: 0.2088753441348672
 typography_spectrum: 0.8990937962662429
 color:
   brandStrength: 0.7155659168493003
@@ -6,9 +5,14 @@ color:
   saturation: 0.4574753544293344
   rhythmicContrast: 0.47481465176679194
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-name: Waterloo
+    - '#962D3E'
+    - '#343642'
+    - '#979C9C'
+    - '#F2EBC7'
+    - '#348899'
+layout_spectrum: 0.2088753441348672
+author:
+  name: Geert Peeters
+  email: peeters@jolte.com
+name: reenactment
+title: Napoleonic & WWII
