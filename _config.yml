@@ -15,4 +15,8 @@ author:
   name: Geert Peeters
   email: peeters@jolte.com
 name: reenactment
+navigation:
+  - name: Napoleonic
+    id: 57369f82-3c2f-462d-9c32-b0c085ac62fb
+    type: content
 title: Napoleonic & WWII
