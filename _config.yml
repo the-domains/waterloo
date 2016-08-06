@@ -19,4 +19,7 @@ navigation:
   - name: Napoleonic
     id: 57369f82-3c2f-462d-9c32-b0c085ac62fb
     type: content
+  - name: WWII
+    id: 0f4c47c6-b905-47eb-9e8a-be1bdd002fbd
+    type: content
 title: Napoleonic & WWII
