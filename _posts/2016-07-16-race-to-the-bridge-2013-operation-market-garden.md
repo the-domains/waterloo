@@ -19,15 +19,14 @@ description: >-
   Group:https://www.facebook.com/groups/Panze...
   Twitter:https://twitter.com/panzerpicture
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=cwDuY_v0MQs'
 title: Race to the Bridge 2013 Operation Market Garden
-datePublished: '2016-07-16T18:39:45.711Z'
-dateModified: '2016-07-16T18:39:18.052Z'
+datePublished: '2016-08-06T17:40:27.941Z'
+dateModified: '2016-08-06T17:40:26.546Z'
 sourcePath: _posts/2016-07-16-race-to-the-bridge-2013-operation-market-garden.md
+hasPage: true
+via: {}
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: race-to-the-bridge-2013-operation-market-garden/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
